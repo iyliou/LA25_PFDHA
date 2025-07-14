@@ -1,4 +1,4 @@
-# LA2025 PFDHA 
+# PFDHA Code
 
 This repository includes the PFDHA program used in Liou and Abrahamson (2025), Non-Ergodic Probabilistic Fault-Displacement Hazard
 Analysis.
