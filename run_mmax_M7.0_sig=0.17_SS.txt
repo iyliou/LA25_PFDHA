@@ -1,0 +1,22 @@
+3	index	for	Prob	surface	rupt	model	(0	use	P=1)																																							
+1	index	for	rupture	length	model	(0	use	fixed	length	with	delta	function)																																				
+M7.0_SS.txt																																												
+0.331sig_FDHA_mean_7.0_SS.txt																																																
+0.331sig_FDHA_mean_logicTree_7.0_SS.txt																																																
+0.331sig_FDHA_deagg_7.0_SS.txt																																																
+74	number	of	z	values	for	principal	rupture																																									
+0.010	0.013	0.016	0.020	0.025	0.031	0.037	0.044	0.052	0.061	0.070	0.081	0.094	0.107	0.121	0.137	0.155	0.173	0.194	0.216	0.239	0.265	0.292	0.321	0.352	0.385	0.421	0.458	0.498	0.540	0.584	0.632	0.681	0.733	0.788	0.846	0.907	0.971	1.038	1.108	1.181	1.258	1.338	1.421	1.508	1.599	1.693	1.792	1.894	2.000	2.111	2.225	2.344	2.467	2.595	2.727	2.864	3.006	3.152	3.304	3.460	3.622	3.788	3.960	4.31	4.791
+5.308	5.864	6.458	7.094	7.773	8.495	9.264	10.079		  
+0.25	0	x/L	and	rx																																												
+3	nSOF																																															
+0 1 -1	SOF																																															
+1. 0. 0.0	SOF	wts																																														
+80	12	90	(Flt	length	seismogenic	thicknessm	and	dip)																																								
+0.5	7	5	MagBinStep	MaxMagBin																																												
+0.5	14	-3	EpsBinStep	MaxEpsBin	eps0																																											
+0.05	10	0	XLBinStep	MaxXLBin	XL0																																											
+5	nFDM																																															
+0.1	0.05	0.00	-0.05	-0.10																																																
+0.065	0.24	0.39	0.24	0.065																																																
+1	sigma_flag																																															
+0.331	0.331	0.331	0.331																																													
